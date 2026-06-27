@@ -1,14 +1,18 @@
 <div align="center">
 
-# <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A9A5B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Laraib+Mustafa;" alt="Typing SVG" />
-</p> 
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=8A9A5B&center=true&vCenter=true&width=900&lines=Hi,+I'm+Laraib+Mustafa;" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=laraibmustafa05&label=Profile%20Views&style=for-the-badge&color=8A9A5B" alt="Profile Views"/>
 
 ### Cybersecurity Student • Linux User • Problem Solver
 
 I enjoy solving problems, but understanding their root cause is what truly excites me.
 
-<br>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laraib-mustafa-a60a5a389)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laraibmustafa05@gmail.com)
