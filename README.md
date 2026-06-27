@@ -58,8 +58,6 @@ When I'm not coding, you'll find me exploring Linux, learning new cybersecurity 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/laraibmustafa05?style=for-the-badge&logo=github&label=Followers&color=2EA043"/>
   <img src="https://komarev.com/ghpvc/?username=laraibmustafa05&style=for-the-badge&label=Profile%20Views&color=2EA043"/>
