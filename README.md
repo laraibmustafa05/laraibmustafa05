@@ -61,8 +61,7 @@ When I'm not coding, you'll find me exploring Linux, learning new cybersecurity 
 <p align="center">
   <img src="https://img.shields.io/github/followers/laraibmustafa05?style=for-the-badge&logo=github&label=Followers&color=2EA043"/>
   <img src="https://komarev.com/ghpvc/?username=laraibmustafa05&style=for-the-badge&label=Profile%20Views&color=2EA043"/>
-  <img src="https://img.shields.io/badge/Linux-Daily%20Driver-2EA043?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-2EA043?style=for-the-badge&logo=shield&logoColor=white"/>
+
 </p>
 
 <p align="center">
@@ -93,7 +92,7 @@ When I'm not coding, you'll find me exploring Linux, learning new cybersecurity 
 ## ⚡ Fun Facts
 - 🧠 I enjoy debugging more than writing the code.
 - 🔍 Finding the root cause is more satisfying than fixing the symptom.
-- ☕ A cup of coffee is what morivates me to work.
+- ☕ A cup of coffee is what motivates me to work.
 
 ---
 
