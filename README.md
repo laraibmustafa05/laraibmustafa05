@@ -56,7 +56,7 @@ veiledvortex@thm:~$ cat profile.txt
 
 | [Car Renting Website](https://github.com/laraibmustafa05/Car-Renting-Website) |
 |:--|
-| This_repository_contains_a_better_than_mediocre_front-end,_written_in_HTML_and_CSS_for_a_car_renting_webiste._The_CSS_stylesheet_is_all_over_the_place_because_it_was_done_and_modified_with_progress. |
+| This repository contains a better than mediocre front-end, written in HTML and CSS for a car renting webiste. The CSS stylesheet is all over the place because it was done and modified with progress. |
 
 | [A Ransomware Attack; Simulation and Recovery](https://github.com/laraibmustafa05/Ransomware-Attack-Simulation-and-Recovery) |
 |:--|
